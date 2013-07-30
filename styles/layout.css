@@ -63,9 +63,15 @@ div.wrapper h1, div.wrapper h2, div.wrapper h3, div.wrapper h4, div.wrapper h5, 
 .col3{color:#999999; background-color:#151515; padding:20px 0;}
 .col3 a{color:#A97891; background-color:#151515;}
 .col4{color:#999999; background-color:#151515;}
-.col4 a{color:#A97891; background-color:#151515;}
+.col4 a{
+	color: hsla(0,100%,45%,0.80);
+	background-color: #151515;
+}
 .col5{color:#CCCCCC; background-color:#1D1D1D; border-top:1px dotted #E7BCE2; border-bottom:1px dotted #E7BCE2;}
-.col5 a{color:#E7BCE2; background-color:#1D1D1D;}
+.col5 a{
+	color: hsla(0,100%,70%,1.00);
+	background-color: #1D1D1D;
+}
 .col6, .col6 a{color:#666666; background-color:#151515;}
 
 /* ----------------------------------------------Generalise-------------------------------------*/

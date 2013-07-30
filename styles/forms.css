@@ -26,15 +26,15 @@ input, textarea, select{font-size:12px; font-family:Georgia, "Times New Roman", 
 	}
 
 #topbar input#go{
-	width:68px;
-	height:26px;
-	margin:0;
-	padding:4px 0;
-	text-transform:uppercase;
-	color:#FFFFFF;
-	background-color:#A5066D;
-	cursor:pointer;
-	font-weight:bold;
+	width: 68px;
+	height: 26px;
+	margin: 0;
+	padding: 4px 0;
+	text-transform: uppercase;
+	color: #FFFFFF;
+	background-color: rgba(0,125,195,0.76);
+	cursor: pointer;
+	font-weight: bold;
 	}
 
 /* ----------------------------------------------Forms in Content Area-------------------------------------*/
