@@ -55,7 +55,10 @@ div.wrapper h1, div.wrapper h2, div.wrapper h3, div.wrapper h4, div.wrapper h5, 
 	line-height:normal;
 	}
 
-.col1, .col1 a{color:#666666; background-color:#000000;}
+.col1, .col1 a{
+	color: rgba(255,255,255,1.00);
+	background-color: #000000;
+}
 .col2{
 	color: #FFFFFF;
 	background-color: #F8F3F7;
