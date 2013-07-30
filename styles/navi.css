@@ -24,12 +24,12 @@ Licence: <a href="http://www.os-templates.com/template-terms">Website Template L
 	}
 
 #topnav li a:link, #topnav li a:visited, #topnav li a:hover{
-	display:block;
-	margin:0;
-	padding:15px 20px;
-	color:#FFFFFF;
-	background-color:#562051;
-	border-left:2px solid #562051;
+	display: block;
+	margin: 0;
+	padding: 15px 20px;
+	color: #FFFFFF;
+	border-left: 2px solid #562051;
+	background-color: #5B4459;
 	}
 
 #topnav ul ul li a:link, #topnav ul ul li a:visited{
@@ -41,8 +41,8 @@ Licence: <a href="http://www.os-templates.com/template-terms">Website Template L
 
 #topnav li a:hover, #topnav ul li.active a{
 	color: #FFFFFF;
-	background-color: rgba(255,255,255,1.00);
 	border-left: 2px solid #F955BF;
+	background-color: rgba(255,255,255,1.00);
 	}
 	
 #topnav li li a:link, #topnav li li a:visited{
